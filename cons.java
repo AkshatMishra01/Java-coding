@@ -12,3 +12,4 @@ cons o1 = new cons();
 System.out.println("and HI, I'm a main function");
 }
 }
+ 
