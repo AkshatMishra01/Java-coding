@@ -7,5 +7,8 @@ public class JavaExceptionExample{
    //rest code of the program   
    System.out.println("rest of the code...");  
   }  
+  finally(){
+  System.out.println("Finally block");
+  }
 }  
  
