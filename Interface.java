@@ -4,7 +4,7 @@
 
 // Writing an interface is similar to writing a class. But a class describes the attributes and behaviors of an object. And an interface contains behaviors that a class implements.
 
-// Syntax :
+// Syntax  :
 
 interface <interface_name> {
     
