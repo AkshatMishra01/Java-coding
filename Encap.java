@@ -26,4 +26,4 @@ public class Encap {
    public void setIdNum( String newId) {
       idNum = newId;
    }
-}
+ }
