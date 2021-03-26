@@ -7,5 +7,6 @@ for(i=1;i<=10;i++)
 {
 System.out.println("num *" + i +"=" + num*i);
 }
+  System.out.println("And thus today's commit is done.");
 }
 }
