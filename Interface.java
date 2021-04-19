@@ -31,7 +31,7 @@ interface In1
 class TestClass implements In1 
 { 
     // Implementing the capabilities of 
-    // interface. 
+    //  interface. 
     public void display() 
     { 
         System.out.println("Geek"); 
