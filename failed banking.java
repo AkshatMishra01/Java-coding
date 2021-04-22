@@ -8,7 +8,7 @@ class Account{
 		return 0;
 	}
 	 
-    public int withdraw(int insert) {
+    public  int withdraw(int insert) {
     	if(insert>amount) {
     		try {
     			insert = insert/0;
