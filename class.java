@@ -3,6 +3,6 @@ public class Main {
 
   public static void main(String[] args) {
     Main myObj = new Main();
-    System.out.println(myObj.x);
+    System.out.println("The only output var. is:" + myObj.x);
   }
 }
