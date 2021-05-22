@@ -19,7 +19,7 @@ public class Encap {
       age = newAge;
    }
 
-   public void setName(String newName) {
+   public void setName(String newName)     { 
       name = newName;
    }
 
